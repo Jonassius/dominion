@@ -844,7 +844,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "9ca3beb0-fc79-4900-b174-4d73a8a57457",
       "en": "Treasure Map",
       "de": "Schatzkarte",
       "price": "4",
@@ -893,7 +893,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "a27165b4-2b40-4f66-b8b2-b94ae29c2579",
       "en": "Sailor",
       "de": "Seefahrerin",
       "price": "4",
@@ -925,7 +925,7 @@
       ]
     },
      {
-      "id": ,
+      "id": "154378e8-f25e-4e62-a10c-bc5836cbc7ec",
       "en": "Astrolabe",
       "de": "Astrolabium",
       "price": "3",
@@ -935,7 +935,7 @@
       ]
     },
      {
-      "id": ,
+      "id": "04167b05-904c-47cb-9303-31fe29cc70bd",
       "en": "Pirate",
       "de": "Piratin",
       "price": "5",
@@ -1360,7 +1360,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "0d83fbbc-44db-4ffa-8d58-7d2c1f70d442",
       "en": "Crystal Ball",
       "de": "Kristallkugel",
       "price": "5",
@@ -1686,7 +1686,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "4798f648-9ef9-421d-8091-759b6f076db3",
       "en": "Witch's Hut",
       "de": "Hexenhütte",
       "price": "5",
@@ -2535,12 +2535,22 @@
       ]
     },
      {
-      "id": "",
+      "id": "bc65dc32-8e74-40f9-ac4b-de8a64e30b7f",
       "en": "Overlord",
       "de": "Lehnsherr",
       "price": "8D",
       "type": [
         "Action"
+      ]
+    },
+    {
+      "id": "",
+      "en": "Castles",
+      "de": "Schlösser",
+      "price": "3",
+      "type": [
+        "Victory",
+        "Castle"
       ]
     },
     {
@@ -2559,7 +2569,6 @@
       "de": "Wächterin",
       "price": "2",
       "type": [
-        "Action",
         "Night",
         "Duration"
       ]
@@ -2619,8 +2628,8 @@
       "de": "Kobold",
       "price": "3",
       "type": [
-        "Night",
-        "Fate"
+        "Action",
+        "Doom"
       ]
     },
     {
@@ -2668,7 +2677,7 @@
       "de": "Friedhof",
       "price": "4",
       "type": [
-        "Night"
+        "Victory"
       ]
     },
     {
@@ -2703,7 +2712,7 @@
       "id": "9d8b726d-c3b9-4430-9236-1ce386d7d101",
       "en": "Druid",
       "de": "Druidin",
-      "price": "3",
+      "price": "2",
       "type": [
         "Action",
         "Fate"
@@ -2713,7 +2722,7 @@
       "id": "b9e8713f-6763-40ca-87a9-c5bd369ccbe1",
       "en": "Exorcist",
       "de": "Exorzistin",
-      "price": "3",
+      "price": "4",
       "type": [
         "Night"
       ]
@@ -2733,8 +2742,7 @@
       "de": "Totenbeschwörer",
       "price": "4",
       "type": [
-        "Action",
-        "Zombie"
+        "Action"
       ]
     },
     {
@@ -2743,8 +2751,7 @@
       "de": "Puka",
       "price": "5",
       "type": [
-        "Action",
-        "Fate"
+        "Action"
       ]
     },
     {
@@ -2763,8 +2770,7 @@
       "de": "Schäferin",
       "price": "4",
       "type": [
-        "Action",
-        "Reaction"
+        "Action"
       ]
     },
     {
@@ -2775,7 +2781,7 @@
       "type": [
         "Action",
         "Attack",
-        "Hex"
+        "Doom"
       ]
     },
     {
@@ -2805,7 +2811,8 @@
       "price": "5",
       "type": [
         "Night",
-        "Attack"
+        "Attack",
+        "Doom"
       ]
     },
     {
@@ -2814,8 +2821,11 @@
       "de": "Werwolf",
       "price": "5",
       "type": [
+        "Action",
         "Night",
-        "Attack"
+        "Attack",
+        "Doom"
+        
       ]
     },
     {
@@ -2825,7 +2835,7 @@
       "price": "5",
       "type": [
         "Action",
-        "Hex"
+        "Doom"
       ]
     },
     {
@@ -2835,6 +2845,7 @@
       "price": "5",
       "type": [
         "Treasure",
+        "Attack",
         "Fate"
       ]
     },
@@ -2845,7 +2856,28 @@
       "price": "6",
       "type": [
         "Night",
+        "Duration",
         "Attack"
+      ]
+    },
+    {
+      "id": "",
+      "en": "Crypt",
+      "de": "Krypta",
+      "price": "5",
+      "type": [
+        "Night",
+        "Duration"
+      ]
+    },
+    {
+      "id": "",
+      "en": "Cobbler",
+      "de": "Schuster",
+      "price": "5",
+      "type": [
+        "Night",
+        "Duration"
       ]
     },
     {
@@ -2907,7 +2939,7 @@
       "id": "2b5fe12f-b434-47fd-bbe5-8f16b9a8a02c",
       "en": "Flag Bearer",
       "de": "Fahnenträger",
-      "price": "3",
+      "price": "4",
       "type": [
         "Action"
       ]
@@ -2916,7 +2948,7 @@
       "id": "57f48e91-7593-408b-a22d-96069b33cf3f",
       "en": "Hideout",
       "de": "Versteck",
-      "price": "3",
+      "price": "4",
       "type": [
         "Action"
       ]
@@ -2974,15 +3006,14 @@
       "de": "Seidenhändlerin",
       "price": "4",
       "type": [
-        "Action",
-        "Reaction"
+        "Action"
       ]
     },
     {
       "id": "85082ee3-9b07-45cf-8f87-516fd5ac80a4",
       "en": "Spices",
       "de": "Gewürze",
-      "price": "4",
+      "price": "5",
       "type": [
         "Treasure"
       ]
@@ -3000,7 +3031,7 @@
       "id": "539ef1a1-fdf5-4682-90d7-266662292167",
       "en": "Treasurer",
       "de": "Schatzmeisterin",
-      "price": "4",
+      "price": "5",
       "type": [
         "Action"
       ]
@@ -3009,7 +3040,7 @@
       "id": "66e1d9ae-9b60-4b4a-9ea0-5339b59ab175",
       "en": "Villain",
       "de": "Schwarzer Meister",
-      "price": "4",
+      "price": "5",
       "type": [
         "Action",
         "Attack"
@@ -3061,12 +3092,22 @@
       ]
     },
     {
-      "id": "16f6f830-ab5e-48e3-a54b-d375fd080113",
-      "en": "Spices",
-      "de": "Gewürze",
-      "price": "4",
+      "id": "",
+      "en": "Improve",
+      "de": "Fortschritt",
+      "price": "3",
       "type": [
-        "Treasure"
+        "Action"
+      ]
+    },
+    {
+      "id": "",
+      "en": "Old Witch",
+      "de": "Alte Hexe",
+      "price": "5",
+      "type": [
+        "Action",
+        "Attack"
       ]
     },
     {
@@ -3076,6 +3117,7 @@
       "price": "2",
       "type": [
         "Action",
+        "Attack",
         "Reaction"
       ]
     },
@@ -3105,17 +3147,16 @@
       "de": "Nachschub",
       "price": "2",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
       "id": "2376dbdb-5a27-4f9a-8959-f72a83a1e57b",
       "en": "Wayfarer",
       "de": "Wanderin",
-      "price": "6",
+      "price": "6*",
       "type": [
         "Action",
-        "Traveller"
       ]
     },
     {
@@ -3169,7 +3210,7 @@
       "id": "0976679b-c832-4e46-99b7-407250603d93",
       "en": "Destrier",
       "de": "Schlachtross",
-      "price": "6",
+      "price": "6*",
       "type": [
         "Action"
       ]
@@ -3187,7 +3228,7 @@
       "id": "aed9a49f-566e-4d1b-a9dd-317444a7d400",
       "en": "Falconer",
       "de": "Falknerin",
-      "price": "4",
+      "price": "5",
       "type": [
         "Action",
         "Reaction"
@@ -3197,7 +3238,7 @@
       "id": "41d46850-acfe-43e3-b2e4-d31fccbc8bf6",
       "en": "Fisherman",
       "de": "Fischer",
-      "price": "2",
+      "price": "5*",
       "type": [
         "Action"
       ]
@@ -3205,10 +3246,11 @@
     {
       "id": "a4bdf505-9704-4de8-bf84-865ff6f1a360",
       "en": "Gatekeeper",
-      "de": "門番 (pron.",
+      "de": "Wache",
       "price": "5",
       "type": [
         "Action",
+        "Duration",
         "Attack"
       ]
     },
@@ -3216,7 +3258,7 @@
       "id": "c8e17848-c659-477a-9340-fef991332f97",
       "en": "Goatherd",
       "de": "Ziegenhirtin",
-      "price": "4",
+      "price": "3",
       "type": [
         "Action"
       ]
@@ -3270,7 +3312,7 @@
       "id": "e8f83beb-5b5f-40f7-be80-d2b2765b099e",
       "en": "Mastermind",
       "de": "Drahtzieher",
-      "price": "8",
+      "price": "5",
       "type": [
         "Action",
         "Duration"
@@ -3307,7 +3349,7 @@
       "id": "6419c464-16a6-4efc-8862-402ffd619361",
       "en": "Snowy Village",
       "de": "Verschneites Dorf",
-      "price": "2",
+      "price": "3",
       "type": [
         "Action"
       ]
@@ -3328,6 +3370,7 @@
       "price": "4",
       "type": [
         "Action",
+        "Duration",
         "Reaction"
       ]
     },
@@ -3335,9 +3378,19 @@
       "id": "1cb502c9-507a-454b-bf02-6a124aed35a9",
       "en": "Animal Fair",
       "de": "Viehmarkt",
-      "price": "7",
+      "price": "7*",
       "type": [
         "Action"
+      ]
+    },
+    {
+      "id": "",
+      "en": "Coven",
+      "de": "Hexenzirkel",
+      "price": "5",
+      "type": [
+        "Action",
+        "Attack"
       ]
     },
     {
@@ -3346,16 +3399,18 @@
       "de": "Tand",
       "price": "2",
       "type": [
-        "Treasure"
+        "Treasure",
+        "Liaison"
       ]
     },
     {
       "id": "4e5afb31-8b94-4e97-88c4-6f038b2be056",
       "en": "Broker",
       "de": "Mittelsmann",
-      "price": "3",
+      "price": "4",
       "type": [
-        "Action"
+        "Action",
+        "Liaison"
       ]
     },
     {
@@ -3371,28 +3426,21 @@
       "id": "059018d8-d8c1-4769-a506-bb323c981264",
       "en": "Clashes",
       "de": "Konflikte",
-      "price": "5",
+      "price": "3",
       "type": [
         "Action",
-        "Attack"
+        "Clash"
       ]
     },
     {
       "id": "439076d3-240a-4d33-b053-7c1fe8ae1684",
       "en": "Contract",
       "de": "Vertrag",
-      "price": "4",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "0d83fbbc-44db-4ffa-8d58-7d2c1f70d442",
-      "en": "Crystal Ball",
-      "de": "Kristallkugel",
       "price": "5",
       "type": [
-        "Action"
+        "Treasure",
+        "Duration",
+        "Liaison"
       ]
     },
     {
@@ -3401,13 +3449,14 @@
       "de": "Unterhändlerin",
       "price": "5",
       "type": [
-        "Action"
+        "Action",
+        "Liaison"
       ]
     },
     {
       "id": "fc869b85-1dcd-4d5f-9660-9f6fb4b9e81e",
       "en": "Fortune Hunter",
-      "de": "Glücksritter",
+      "de": "Abenteurerin",
       "price": "4",
       "type": [
         "Action"
@@ -3428,7 +3477,8 @@
       "de": "Gildemeisterin",
       "price": "5",
       "type": [
-        "Action"
+        "Action",
+        "Liaison"
       ]
     },
     {
@@ -3437,7 +3487,9 @@
       "de": "Importeurin",
       "price": "3",
       "type": [
-        "Action"
+        "Action",
+        "Duration",
+        "Liaison"
       ]
     },
     {
@@ -3471,34 +3523,17 @@
       "id": "537d0f35-9204-4083-aa32-87488b5a3118",
       "en": "Odysseys",
       "de": "Irrfahrten",
-      "price": "5",
+      "price": "3",
       "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "bc65dc32-8e74-40f9-ac4b-de8a64e30b7f",
-      "en": "Overlord",
-      "de": "Lehnsherr",
-      "price": "8*",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "10a24bb5-408c-443b-87a6-55c5bc9388b6",
-      "en": "Piazza",
-      "de": "Piazza",
-      "price": "4",
-      "type": [
-        "Action"
+        "Action",
+        "Odyssey"
       ]
     },
     {
       "id": "3f01bc1a-4280-47c9-be27-6c2d1bbe52b1",
       "en": "Specialist",
       "de": "Spezialistin",
-      "price": "3",
+      "price": "5",
       "type": [
         "Action"
       ]
@@ -3518,7 +3553,8 @@
       "de": "Vorarbeiter",
       "price": "3",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -3527,26 +3563,17 @@
       "de": "Werkzeug",
       "price": "4",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
       "id": "218d223f-4b10-49b9-aa0e-4b974fae7626",
       "en": "Underling",
       "de": "Untergebener",
-      "price": "2",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "4798f648-9ef9-421d-8091-759b6f076db3",
-      "en": "Witch's Hut",
-      "de": "Hexenhütte",
-      "price": "5",
+      "price": "3",
       "type": [
         "Action",
-        "Attack"
+        "Liaison"
       ]
     },
     {
@@ -3555,23 +3582,15 @@
       "de": "Überfluss",
       "price": "4",
       "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "154378e8-f25e-4e62-a10c-bc5836cbc7ec",
-      "en": "Astrolabe",
-      "de": "Astrolabium",
-      "price": "3",
-      "type": [
-        "Treasure"
+        "Treasure",
+        "Duration"
       ]
     },
     {
       "id": "420260c1-3c70-4975-b33f-d2eebfa4fac5",
       "en": "Barbarian",
       "de": "Barbar",
-      "price": "4",
+      "price": "5",
       "type": [
         "Action",
         "Attack"
@@ -3583,7 +3602,8 @@
       "de": "Käfig",
       "price": "2",
       "type": [
-        "Action"
+        "Treasure",
+        "Duration"
       ]
     },
     {
@@ -3592,7 +3612,8 @@
       "de": "Mannschaft",
       "price": "5",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -3602,6 +3623,7 @@
       "price": "5",
       "type": [
         "Action",
+        "Duration",
         "Attack"
       ]
     },
@@ -3612,6 +3634,7 @@
       "price": "5",
       "type": [
         "Action",
+        "Duration",
         "Attack"
       ]
     },
@@ -3635,15 +3658,6 @@
       ]
     },
     {
-      "id": "ffa9e280-c4d7-410f-b2c7-eec4f65d4531",
-      "en": "Launch",
-      "de": "In See stechen",
-      "price": "4",
-      "type": [
-        "Action"
-      ]
-    },
-    {
       "id": "a8e1ae06-b1de-44b5-adc2-c9b2116d52c5",
       "en": "Longship",
       "de": "Langschiff",
@@ -3659,7 +3673,8 @@
       "de": "Kartenzeichnerin",
       "price": "4",
       "type": [
-        "Action"
+        "Action",
+        "Reaction"
       ]
     },
     {
@@ -3672,49 +3687,13 @@
       ]
     },
     {
-      "id": "04167b05-904c-47cb-9303-31fe29cc70bd",
-      "en": "Pirate",
-      "de": "Piratin",
-      "price": "5",
-      "type": [
-        "Action",
-        "Attack"
-      ]
-    },
-    {
       "id": "b8a109b7-d7ba-4b50-8cc6-a37a72b897b4",
       "en": "Quartermaster",
       "de": "Quartiermeister",
       "price": "5",
       "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "a27165b4-2b40-4f66-b8b2-b94ae29c2579",
-      "en": "Sailor",
-      "de": "Seefahrerin",
-      "price": "4",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "9ca3beb0-fc79-4900-b174-4d73a8a57457",
-      "en": "Sea Chart",
-      "de": "Seekarte",
-      "price": "3",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "950c42c2-e4b8-418b-8eeb-78dba4ca397a",
-      "en": "Treasure Chest",
-      "de": "Schatzkiste",
-      "price": "5",
-      "type": [
-        "Treasure"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -3747,7 +3726,7 @@
     {
       "id": "cc40fc8f-d064-4332-92ce-d960356ab659",
       "en": "Stash",
-      "de": "Gruzzolo (lit.",
+      "de": "Geldversteck",
       "price": "5",
       "type": [
         "Treasure"
@@ -3756,7 +3735,7 @@
     {
       "id": "a36d4717-5e24-4928-a7ac-60103f59c01b",
       "en": "Walled Village",
-      "de": "Carcassonne",
+      "de": "Befestigtes Dorf",
       "price": "4",
       "type": [
         "Action"
@@ -3778,16 +3757,8 @@
       "price": "8",
       "type": [
         "Action",
-        "Reserve"
-      ]
-    },
-    {
-      "id": "121fc594-aa5f-4a17-b179-c8ab8c3b4c97",
-      "en": "Summon",
-      "de": "Einladung (lit.",
-      "price": "5",
-      "type": [
-        "Event"
+        "Duration",
+        "Command"
       ]
     },
     {
@@ -3811,7 +3782,7 @@
     {
       "id": "545ad7b4-6ece-402e-9056-5f8bbda32586",
       "en": "Church",
-      "de": "Schweriner Dom (lit.",
+      "de": "Schweriner Dom",
       "price": "3",
       "type": [
         "Action",
@@ -3821,30 +3792,12 @@
     {
       "id": "ad5dcbf7-80f2-4891-8e4e-502ca02d7be7",
       "en": "Captain",
-      "de": "Kapitän Tobias (lit.",
+      "de": "Kapitän Tobias",
       "price": "6",
       "type": [
         "Action",
-        "Duration"
-      ]
-    },
-    {
-      "id": "3d0ad3dd-1b0c-470b-afa8-17f4df5d2445",
-      "en": "Robin Hood",
-      "de": "Robin Hood",
-      "price": "4",
-      "type": [
-        "Action",
-        "Attack"
-      ]
-    },
-    {
-      "id": "1830d126-b2d4-43ef-93e0-12d0d8f6ab3e",
-      "en": "Admiral",
-      "de": "Admiral",
-      "price": "6",
-      "type": [
-        "Event"
+        "Duration",
+        "Command"
       ]
     },
     {
