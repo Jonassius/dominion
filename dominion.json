@@ -862,7 +862,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "200d021b-4328-4793-999d-831acc789539",
       "en": "Monkey",
       "de": "Affe",
       "price": "3",
@@ -872,7 +872,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "5415af71-b8f9-4103-bd81-4ad223ebc92e",
       "en": "Blockade",
       "de": "Blockade",
       "price": "4",
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "36a10ba1-2fc7-40eb-acf4-310df154450d",
       "en": "Tide Pools",
       "de": "Gezeitenbecken",
       "price": "4",
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "e3391a5a-f5a9-4b63-8c56-2e521e174451",
       "en": "Corsair",
       "de": "Korsarenschiff",
       "price": "5",
@@ -914,7 +914,7 @@
       ]
     },
     {
-      "id": ,
+      "id": "4be3579d-111f-4f97-bee7-b8bbb6c02154",
       "en": "Sea Witch",
       "de": "Meerhexe",
       "price": "5",
@@ -2544,7 +2544,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "a67fa844-dd86-4cde-a5ce-e274111ff82c",
       "en": "Castles",
       "de": "Schlösser",
       "price": "3",
@@ -2861,7 +2861,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "20de7b7b-337c-444c-8905-ac6b5e86e2b2",
       "en": "Crypt",
       "de": "Krypta",
       "price": "5",
@@ -2871,7 +2871,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "9168cfe6-2fa4-4e57-8874-5f3ed8e7cc66",
       "en": "Cobbler",
       "de": "Schuster",
       "price": "5",
@@ -3384,7 +3384,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "e17e222c-8b71-4ece-a141-76df754ce8a1",
       "en": "Coven",
       "de": "Hexenzirkel",
       "price": "5",
@@ -3934,7 +3934,7 @@
       "id": "9a3ec56b-ed5c-4782-9f5c-f818e1c325b9",
       "en": "Stonemason",
       "de": "Steinmetz",
-      "price": "2",
+      "price": "2+",
       "type": [
         "Action"
       ]
@@ -3943,7 +3943,7 @@
       "id": "3d931752-a691-47ca-be99-b2007f4f97af",
       "en": "Doctor",
       "de": "Arzt",
-      "price": "3*",
+      "price": "3+",
       "type": [
         "Action"
       ]
@@ -3952,7 +3952,7 @@
       "id": "a262bde6-c1e8-4f05-ba27-1b4a577905c7",
       "en": "Masterpiece",
       "de": "Meisterstück",
-      "price": "3*",
+      "price": "3+",
       "type": [
         "Treasure"
       ]
@@ -3970,7 +3970,7 @@
       "id": "56fc6bb8-b2aa-4db3-a855-3b8e14f2c463",
       "en": "Herald",
       "de": "Herold",
-      "price": "4",
+      "price": "4+",
       "type": [
         "Action"
       ]
@@ -4041,59 +4041,12 @@
       ]
     },
     {
-      "id": "5415af71-b8f9-4103-bd81-4ad223ebc92e",
-      "en": "Blockade",
-      "de": "Blockade",
-      "price": "4",
-      "type": [
-        "Action",
-        "Duration"
-      ]
-    },
-    {
-      "id": "200d021b-4328-4793-999d-831acc789539",
-      "en": "Monkey",
-      "de": "Affe",
-      "price": "3",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "4be3579d-111f-4f97-bee7-b8bbb6c02154",
-      "en": "Sea Witch",
-      "de": "Meerhexe",
-      "price": "5",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "36a10ba1-2fc7-40eb-acf4-310df154450d",
-      "en": "Tide Pools",
-      "de": "Gezeitenbecken",
-      "price": "4",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "e3391a5a-f5a9-4b63-8c56-2e521e174451",
-      "en": "Corsair",
-      "de": "Korsarenschiff",
-      "price": "5",
-      "type": [
-        "Action",
-        "Attack"
-      ]
-    },
-    {
       "id": "5e881383-2854-4a17-81bd-e32231d22b6b",
       "en": "Jewelled Egg",
       "de": "Juwelen-Ei",
       "price": "2",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
@@ -4102,7 +4055,8 @@
       "de": "Suche",
       "price": "2",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -4120,7 +4074,8 @@
       "de": "Einsamer Schrein",
       "price": "3",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -4129,7 +4084,9 @@
       "de": "Sirene",
       "price": "3",
       "type": [
-        "Action"
+        "Action",
+        "Duration",
+        "Attack"
       ]
     },
     {
@@ -4138,7 +4095,9 @@
       "de": "Blinder Passagier",
       "price": "3",
       "type": [
-        "Action"
+        "Action",
+        "Duration",
+        "Reaction"
       ]
     },
     {
@@ -4147,7 +4106,8 @@
       "de": "Schiffsjunge",
       "price": "4",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -4156,7 +4116,7 @@
       "de": "Schmelztiegel",
       "price": "4",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
@@ -4165,7 +4125,9 @@
       "de": "Flaggschiff",
       "price": "4",
       "type": [
-        "Action"
+        "Action",
+        "Duration",
+        "Command"
       ]
     },
     {
@@ -4174,7 +4136,8 @@
       "de": "Gondel",
       "price": "4",
       "type": [
-        "Action"
+        "Treasure",
+        "Duration"
       ]
     },
     {
@@ -4183,7 +4146,8 @@
       "de": "Landungstrupp",
       "price": "4",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -4192,7 +4156,8 @@
       "de": "Seil",
       "price": "4",
       "type": [
-        "Action"
+        "Treasure",
+        "Duration"
       ]
     },
     {
@@ -4201,7 +4166,8 @@
       "de": "Vergrabener Schatz",
       "price": "5",
       "type": [
-        "Action"
+        "Treasure",
+        "Duration"
       ]
     },
     {
@@ -4210,7 +4176,8 @@
       "de": "Vergrößerung",
       "price": "5",
       "type": [
-        "Action"
+        "Action",
+        "Duration"
       ]
     },
     {
@@ -4219,7 +4186,7 @@
       "de": "Figurine",
       "price": "5",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
@@ -4246,7 +4213,7 @@
       "de": "Anhänger",
       "price": "5",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
@@ -4255,7 +4222,7 @@
       "de": "Spitzhacke",
       "price": "5",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
@@ -4273,7 +4240,7 @@
       "de": "Silbermine",
       "price": "5",
       "type": [
-        "Action"
+        "Treasure"
       ]
     },
     {
@@ -4282,7 +4249,8 @@
       "de": "Gauner",
       "price": "5",
       "type": [
-        "Action"
+        "Action",
+        "Attack"
       ]
     },
     {
@@ -4300,17 +4268,7 @@
       "de": "Sack voll Kostbarkeiten",
       "price": "6",
       "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "adf2e155-c30f-48a6-840e-3ed78571f62c",
-      "en": "Abandoned Mine",
-      "de": "Verlassene Mine",
-      "price": "0",
-      "type": [
-        "Action",
-        "Ruins"
+        "Treasure"
       ]
     },
     {
@@ -4324,8 +4282,8 @@
     },
     {
       "id": "6b6394a3-e88d-4690-b2ae-53cf52be7dea",
-      "en": "Acolyte",
-      "de": "Altardienerin",
+      "en": "Augurs",
+      "de": "Augurinnen",
       "price": "4",
       "type": [
         "Action",
@@ -4382,7 +4340,7 @@
       "id": "689ff93c-95b0-4e5f-ab0e-84fb6e831995",
       "en": "Annex",
       "de": "Schlacht",
-      "price": "D8",
+      "price": "8D",
       "type": [
         "Event"
       ]
@@ -4403,17 +4361,6 @@
       "price": "0",
       "type": [
         "Landmark"
-      ]
-    },
-    {
-      "id": "2ee95943-78e3-412c-a7a7-25173cde36c1",
-      "en": "Archer",
-      "de": "Bogenschützin",
-      "price": "4",
-      "type": [
-        "Action",
-        "Attack",
-        "Clash"
       ]
     },
     {
@@ -4447,7 +4394,7 @@
       "id": "0ee0e404-58bb-4e7b-8a20-bd120b0e50c4",
       "en": "Artist",
       "de": "Künstlerin",
-      "price": "D8",
+      "price": "8D",
       "type": [
         "Action"
       ]
@@ -4459,16 +4406,6 @@
       "price": "2",
       "type": [
         "Event"
-      ]
-    },
-    {
-      "id": "257d5ad4-c80b-4d90-8051-dea0580d14b6",
-      "en": "Augurs",
-      "de": "Augurinnen",
-      "price": "3",
-      "type": [
-        "Action",
-        "Augur"
       ]
     },
     {
@@ -4581,31 +4518,12 @@
       ]
     },
     {
-      "id": "88333e44-9211-4733-97eb-5e5fe393a827",
-      "en": "Bat",
-      "de": "Fledermaus",
-      "price": "*",
-      "type": [
-        "Night"
-      ]
-    },
-    {
       "id": "45aec3e5-cdeb-4008-9486-6c28f7d78d71",
       "en": "Baths",
       "de": "Badehaus",
       "price": "0",
       "type": [
         "Landmark"
-      ]
-    },
-    {
-      "id": "0c320189-ea62-4a38-9bfe-117c77ffa6a9",
-      "en": "Battle Plan",
-      "de": "Schlachtplan",
-      "price": "3",
-      "type": [
-        "Action",
-        "Clash"
       ]
     },
     {
@@ -4628,9 +4546,9 @@
     },
     {
       "id": "caacd234-492f-4a3e-8617-a2dda515792f",
-      "en": "Blacksmith",
-      "de": "Eisenschmied",
-      "price": "3",
+      "en": "Townfolk",
+      "de": "Bürger",
+      "price": "2",
       "type": [
         "Action",
         "Townsfolk"
@@ -4648,7 +4566,7 @@
     {
       "id": "a6fa565b-2bc9-4c0a-9aee-2324b539dc7d",
       "en": "Borrow",
-      "de": "Leihgabe (lit.",
+      "de": "Leihgabe",
       "price": "0",
       "type": [
         "Event"
@@ -4718,16 +4636,6 @@
       ]
     },
     {
-      "id": "a67fa844-dd86-4cde-a5ce-e274111ff82c",
-      "en": "Castles",
-      "de": "Schlösser",
-      "price": "3",
-      "type": [
-        "Victory",
-        "Castle"
-      ]
-    },
-    {
       "id": "3ef7085a-da0b-48dd-852d-5bfa492d2b95",
       "en": "Catapult",
       "de": "Katapult",
@@ -4753,16 +4661,6 @@
       "price": "0",
       "type": [
         "Ally"
-      ]
-    },
-    {
-      "id": "7c4c29fa-9d56-4bca-931c-72f01c17d283",
-      "en": "Champion",
-      "de": "Champion",
-      "price": "*",
-      "type": [
-        "Action",
-        "Duration"
       ]
     },
     {
@@ -4829,31 +4727,12 @@
       ]
     },
     {
-      "id": "9168cfe6-2fa4-4e57-8874-5f3ed8e7cc66",
-      "en": "Cobbler",
-      "de": "Schuster",
-      "price": "5",
-      "type": [
-        "Night",
-        "Duration"
-      ]
-    },
-    {
       "id": "f34f8697-7306-4256-aabd-fd143e1f254f",
       "en": "Colonnade",
       "de": "Kolonnaden",
       "price": "0",
       "type": [
         "Landmark"
-      ]
-    },
-    {
-      "id": "e28ece8d-0945-4092-9de8-5276d82ddd6a",
-      "en": "Colony",
-      "de": "Kolonie",
-      "price": "11",
-      "type": [
-        "Victory"
       ]
     },
     {
@@ -4867,12 +4746,11 @@
     },
     {
       "id": "01a5683b-eaf4-4b2b-8e4e-04caba1e536a",
-      "en": "Conjurer",
-      "de": "Beschwörer",
+      "en": "Wizards",
+      "de": "Zauberer",
       "price": "4",
       "type": [
         "Action",
-        "Duration",
         "Wizard"
       ]
     },
@@ -4895,19 +4773,10 @@
       ]
     },
     {
-      "id": "e828fb75-fe08-4f55-b59f-8ca202077b5c",
-      "en": "Copper",
-      "de": "Kupfer",
-      "price": "0",
-      "type": [
-        "Treasure"
-      ]
-    },
-    {
       "id": "6a16d062-bef9-435b-be7b-1cfce41373e1",
       "en": "Coronet",
       "de": "Adelskrone",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Treasure",
@@ -4927,20 +4796,10 @@
       "id": "75b769a6-8e03-40ac-8721-c09eb2eb1ed0",
       "en": "Courser",
       "de": "Rennpferd",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Reward"
-      ]
-    },
-    {
-      "id": "e17e222c-8b71-4ece-a141-76df754ce8a1",
-      "en": "Coven",
-      "de": "Hexenzirkel",
-      "price": "5",
-      "type": [
-        "Action",
-        "Attack"
       ]
     },
     {
@@ -4980,35 +4839,6 @@
       ]
     },
     {
-      "id": "ee50f3bd-fbe9-41f0-9eaf-8dda17bfb30a",
-      "en": "Crumbling Castle",
-      "de": "Verfallendes Schloss",
-      "price": "4",
-      "type": [
-        "Victory",
-        "Castle"
-      ]
-    },
-    {
-      "id": "20de7b7b-337c-444c-8905-ac6b5e86e2b2",
-      "en": "Crypt",
-      "de": "Krypta",
-      "price": "5",
-      "type": [
-        "Night",
-        "Duration"
-      ]
-    },
-    {
-      "id": "0d3f3bc3-1fe1-41cb-90a6-dcd30929a4a2",
-      "en": "Curse",
-      "de": "Fluch",
-      "price": "0",
-      "type": [
-        "Curse"
-      ]
-    },
-    {
       "id": "34ac5344-4141-4528-814b-d5765a18858a",
       "en": "Cursed",
       "de": "Verflucht",
@@ -5018,20 +4848,10 @@
       ]
     },
     {
-      "id": "9ed2ac19-283a-429e-82c4-86b3f9069082",
-      "en": "Cursed Gold",
-      "de": "Verfluchtes Gold",
-      "price": "4",
-      "type": [
-        "Treasure",
-        "Heirloom"
-      ]
-    },
-    {
       "id": "21acd8b4-0711-40fa-973a-4a399b01c395",
       "en": "Daimyo",
       "de": "Daimyo",
-      "price": "D6",
+      "price": "6D",
       "type": [
         "Action",
         "Command"
