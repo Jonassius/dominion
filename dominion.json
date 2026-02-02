@@ -2024,7 +2024,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "27ad4d20-3965-4be7-8956-1aab352d6089",
       "en": "Rebuild",
       "de": "Neubau",
       "price": "5",
@@ -3092,7 +3092,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "9913d155-2f66-4e02-8c40-c5ee4b128358",
       "en": "Improve",
       "de": "Fortschritt",
       "price": "3",
@@ -3101,7 +3101,7 @@
       ]
     },
     {
-      "id": "",
+      "id": "3597dfe0-af13-4e85-9976-2db0e8a81845",
       "en": "Old Witch",
       "de": "Alte Hexe",
       "price": "5",
@@ -4961,7 +4961,7 @@
     {
       "id": "4a3b8884-4458-46c4-9ba8-2e59083a3fbb",
       "en": "Delve",
-      "de": "Erforschen (lit.",
+      "de": "Erforschen",
       "price": "2",
       "type": [
         "Event"
@@ -5067,7 +5067,7 @@
       "id": "efc268eb-8918-45f3-aa00-58b12ee64ec7",
       "en": "Doubloons",
       "de": "Dublonen",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -5080,16 +5080,6 @@
       "price": "5",
       "type": [
         "Victory"
-      ]
-    },
-    {
-      "id": "57da4218-4784-45e5-8589-29ce7d2b9480",
-      "en": "Elder",
-      "de": "Älteste",
-      "price": "5",
-      "type": [
-        "Action",
-        "Townsfolk"
       ]
     },
     {
@@ -5123,7 +5113,7 @@
       "id": "03deeb82-bf98-4d31-b39a-bb62b7569aa3",
       "en": "Endless Chalice",
       "de": "Endloser Kelch",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Duration",
@@ -5233,7 +5223,7 @@
       "id": "d065e4a4-c2db-4b1b-b08e-82baa831be51",
       "en": "Farrier",
       "de": "Hufschmied",
-      "price": "0",
+      "price": "2+",
       "type": [
         "Action"
       ]
@@ -5287,7 +5277,7 @@
       "id": "02028f2a-80b5-493d-a88f-2973e77522b8",
       "en": "Figurehead",
       "de": "Galionsfigur",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Duration",
@@ -5335,7 +5325,7 @@
       "id": "da404ae4-6deb-4c5c-bc29-73ceda3fd586",
       "en": "Followers",
       "de": "Gefolge",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Attack",
@@ -5345,7 +5335,7 @@
     {
       "id": "dd28fb9a-7e21-4f1d-bcba-b25ded3e469b",
       "en": "Footpad",
-      "de": "Gredin",
+      "de": "Strassenräuber",
       "price": "5",
       "type": [
         "Action",
@@ -5393,7 +5383,7 @@
       "id": "f995b5bc-dc54-4a4d-a96e-6aaf7bed2069",
       "en": "Fortune",
       "de": "Reichtum",
-      "price": "8",
+      "price": "8+8D",
       "type": [
         "Treasure"
       ]
@@ -5445,17 +5435,6 @@
       ]
     },
     {
-      "id": "e57433f6-1dab-43e6-b5a9-a55babcd9f97",
-      "en": "Garrison",
-      "de": "Garnison",
-      "price": "4",
-      "type": [
-        "Action",
-        "Duration",
-        "Fort"
-      ]
-    },
-    {
       "id": "cdaae968-164c-46f3-8c0e-f0a2165f8677",
       "en": "Gather",
       "de": "Sammeln",
@@ -5468,7 +5447,7 @@
       "id": "ca3cd45b-62e8-4617-a960-49fc3e8b38d4",
       "en": "Ghost",
       "de": "Geist",
-      "price": "*",
+      "price": "4*",
       "type": [
         "Night",
         "Duration",
@@ -5571,7 +5550,7 @@
       "id": "ae96ad38-dcd8-4d61-b19e-5044422e0819",
       "en": "Hammer",
       "de": "Hammer",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -5618,7 +5597,7 @@
     {
       "id": "31ca8d10-7688-4370-8512-5543c69cd2fe",
       "en": "Haunting",
-      "de": "Spuk (lit.",
+      "de": "Spuk",
       "price": "0",
       "type": [
         "Hex"
@@ -5678,7 +5657,7 @@
       "id": "0f4f2c10-2c04-4b90-9585-39f3bf0b79bd",
       "en": "Horse",
       "de": "Pferd",
-      "price": "*",
+      "price": "3*",
       "type": [
         "Action"
       ]
@@ -5697,7 +5676,7 @@
       "id": "871803f0-0828-4dd7-a907-6780a54075b8",
       "en": "Housecarl",
       "de": "Leibgardist",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Reward"
@@ -5717,7 +5696,7 @@
       "id": "b453e39e-be5c-4609-b591-bfcfd45be9df",
       "en": "Huge Turnip",
       "de": "Riesenrübe",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Treasure",
         "Reward"
@@ -5747,7 +5726,7 @@
       "id": "c2b57938-0218-43ad-848c-c90c83fec541",
       "en": "Imp",
       "de": "Teufelchen",
-      "price": "*",
+      "price": "2*",
       "type": [
         "Action",
         "Spirit"
@@ -5758,15 +5737,6 @@
       "en": "Imperial Envoy",
       "de": "Kaiserlicher Gesandter",
       "price": "5",
-      "type": [
-        "Action"
-      ]
-    },
-    {
-      "id": "9913d155-2f66-4e02-8c40-c5ee4b128358",
-      "en": "Improve",
-      "de": "Fortschritt",
-      "price": "3",
       "type": [
         "Action"
       ]
@@ -5811,7 +5781,7 @@
       "id": "9552e527-3b20-4d89-9085-1b6e7eb0f99f",
       "en": "Insignia",
       "de": "Insignien",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -5857,7 +5827,7 @@
       "id": "a5c5dabb-ecb5-4db5-a875-5dc6e69a966b",
       "en": "Jewels",
       "de": "Juwelen",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Duration",
@@ -6035,7 +6005,7 @@
       "id": "7a9fe74a-0e5a-476b-8f8f-639a49e59792",
       "en": "Madman",
       "de": "Verrückter",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action"
       ]
@@ -6182,7 +6152,7 @@
       "id": "dcc504a8-8bc3-4abf-8079-77d262b0ad12",
       "en": "Mountain Shrine",
       "de": "Bergschrein",
-      "price": "D5",
+      "price": "5D",
       "type": [
         "Action",
         "Omen"
@@ -6247,16 +6217,6 @@
       ]
     },
     {
-      "id": "3597dfe0-af13-4e85-9976-2db0e8a81845",
-      "en": "Old Witch",
-      "de": "Alte Hexe",
-      "price": "5",
-      "type": [
-        "Action",
-        "Attack"
-      ]
-    },
-    {
       "id": "f2a133ec-41ee-47f7-9746-2d41d6f858e6",
       "en": "Opulent Castle",
       "de": "Reiches Schloss",
@@ -6271,7 +6231,7 @@
       "id": "862ed50a-5425-4582-a545-00c5255e28ca",
       "en": "Orb",
       "de": "Kugel",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -6355,7 +6315,7 @@
     {
       "id": "58b289db-41bc-4dbc-bbfe-28e1438d1c3f",
       "en": "Pathfinding",
-      "de": "Wegsuche (lit.",
+      "de": "Wegsuche",
       "price": "8",
       "type": [
         "Event"
@@ -6427,7 +6387,7 @@
     {
       "id": "1e6d8e07-8398-4179-b8a6-80a402f2d738",
       "en": "Plan",
-      "de": "Planung (lit.",
+      "de": "Planung",
       "price": "3",
       "type": [
         "Event"
@@ -6529,7 +6489,7 @@
       "id": "661810e9-86eb-40d5-95b0-3ef4461728c9",
       "en": "Princess",
       "de": "Prinzessin",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Prize"
@@ -6539,7 +6499,7 @@
       "id": "41f829c8-d5c6-4645-b039-4aaaca39b5d3",
       "en": "Prize Goat",
       "de": "Zuchtziege",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -6628,15 +6588,6 @@
       ]
     },
     {
-      "id": "27ad4d20-3965-4be7-8956-1aab352d6089",
-      "en": "Rebuild",
-      "de": "Neubau",
-      "price": "5",
-      "type": [
-        "Action"
-      ]
-    },
-    {
       "id": "49cf50fd-63e2-4702-be46-77aa46e6bf3b",
       "en": "Receive Tribute",
       "de": "Tribut empfangen",
@@ -6658,7 +6609,7 @@
       "id": "e8ad08a4-58df-4e16-a147-d2b38ac5555c",
       "en": "Renown",
       "de": "Ruhm",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Reward"
@@ -6857,7 +6808,7 @@
     {
       "id": "5009d2e0-3650-4f92-a36b-3c10f58a5c5f",
       "en": "Save",
-      "de": "Zuflucht (lit.",
+      "de": "Zuflucht",
       "price": "1",
       "type": [
         "Event"
@@ -6929,7 +6880,7 @@
     {
       "id": "b40f066c-ae55-496d-91f0-498f7b602676",
       "en": "Sewers",
-      "de": "Abwassertunnel (lit.",
+      "de": "Abwassertunnel",
       "price": "3",
       "type": [
         "Project"
@@ -6939,7 +6890,7 @@
       "id": "9821865e-aa3c-485d-83ac-f8e8c6bb1bd0",
       "en": "Sextant",
       "de": "Sextant",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -6949,7 +6900,7 @@
       "id": "77b2b2e0-8d8e-4924-887a-e259397e4b79",
       "en": "Shield",
       "de": "Schild",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Reaction",
@@ -7120,7 +7071,7 @@
     {
       "id": "d705bec4-f631-4197-8434-adcf30e061e6",
       "en": "Sorcerer",
-      "de": "Hexenmeister (",
+      "de": "Hexenmeister",
       "price": "5",
       "type": [
         "Action",
@@ -7143,7 +7094,7 @@
       "id": "acf38e5f-1dd5-4289-86fa-bd63af588ea6",
       "en": "Spell Scroll",
       "de": "Zauberrolle",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Action",
         "Treasure",
@@ -7154,7 +7105,7 @@
       "id": "109a4132-17c0-40a1-b989-22f5b237213d",
       "en": "Spoils",
       "de": "Beute",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Treasure"
       ]
@@ -7173,7 +7124,7 @@
       "id": "d1bc49d3-08f4-49da-9008-ce65140bb3ee",
       "en": "Staff",
       "de": "Stab",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Loot"
@@ -7253,7 +7204,7 @@
       "id": "5170d6fd-590e-40ce-a750-f67970785cc0",
       "en": "Sword",
       "de": "Schwert",
-      "price": "*",
+      "price": "7*",
       "type": [
         "Treasure",
         "Attack",
@@ -7350,7 +7301,7 @@
     {
       "id": "fae98c9e-deba-4099-8d14-ef3fb92855f7",
       "en": "The Flame's Gift",
-      "de": "Geschenk des Feuers (lit.",
+      "de": "Geschenk des Feuers (",
       "price": "0",
       "type": [
         "Boon"
@@ -7579,7 +7530,7 @@
       "id": "8b06c941-96b5-4702-9e77-0187c9aacf03",
       "en": "Trusty Steed",
       "de": "Streitross",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Prize"
@@ -7839,7 +7790,7 @@
       "id": "029a1423-b3f4-42d1-b95a-7ed5dc89eb35",
       "en": "Will-o'-Wisp",
       "de": "Irrlicht",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action",
         "Spirit"
@@ -7848,7 +7799,7 @@
     {
       "id": "2ebc0d77-f129-468f-a5d6-f75b4c92d75b",
       "en": "Windfall",
-      "de": "Glücksfall (lit.",
+      "de": "Glücksfall",
       "price": "5",
       "type": [
         "Event"
@@ -7858,7 +7809,7 @@
       "id": "2af3c21b-d318-424b-a03d-d428f483f4cb",
       "en": "Wish",
       "de": "Wunsch",
-      "price": "0",
+      "price": "0*",
       "type": [
         "Action"
       ]
